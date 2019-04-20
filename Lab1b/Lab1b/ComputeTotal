@@ -1,0 +1,17 @@
+// Name: TGse Ho Wang
+// Student ID: 55721980
+// Assignment: Lab #1b
+
+// Description:
+// This program demonstrates the use of a simple main() function, and
+// displays output to a console window using the C++ iostream library.
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	cout << "Welcome to AST21105 – OO Programming and Design" << endl;
+	system("pause");
+	return 0;
+}

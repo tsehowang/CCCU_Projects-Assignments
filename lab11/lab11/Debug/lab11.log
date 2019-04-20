@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\howan\source\repos\lab11\lab11\main.cpp(98): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Rational.cpp
+c:\users\howan\source\repos\lab11\lab11\rational.cpp(110): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...

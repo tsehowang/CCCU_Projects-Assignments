@@ -1,0 +1,4 @@
+﻿  Lab1a.cpp
+c:\users\howan\source\repos\lab1a\lab1a\lab1a.cpp(19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\howan\source\repos\lab1a\lab1a\lab1a.cpp(48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab1a.vcxproj -> C:\Users\howan\source\repos\Lab1a\Debug\Lab1a.exe

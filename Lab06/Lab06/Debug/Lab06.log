@@ -1,0 +1,37 @@
+﻿  DataEntry.cpp
+  Engine.cpp
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(8): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(8): error C2065: 'endl': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(9): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(9): error C2065: 'endl': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(10): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(10): error C2065: 'endl': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(11): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(11): error C2065: 'endl': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(12): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(15): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(16): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(16): error C2065: 'endl': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(23): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(23): error C2065: 'endl': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(24): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(24): error C2065: 'endl': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(25): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(25): error C2065: 'endl': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(28): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(29): error C2065: 'cin': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(34): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(34): error C2065: 'endl': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(36): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(36): error C2065: 'endl': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(49): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(51): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(51): error C2065: 'endl': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(56): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(56): error C2065: 'endl': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(57): error C2065: 'cout': undeclared identifier
+c:\users\howan\source\repos\lab06\lab06\engine.cpp(57): error C2065: 'endl': undeclared identifier
+  Search.cpp
+  Sort.cpp
+  main.cpp
+  Generating Code...

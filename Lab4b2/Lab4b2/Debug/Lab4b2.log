@@ -1,0 +1,3 @@
+﻿  FindMax.cpp
+c:\users\howan\source\repos\lab4b2\lab4b2\findmax.cpp(23): warning C4172: returning address of local variable or temporary: temp
+  Lab4b2.vcxproj -> C:\Users\howan\source\repos\Lab4b2\Debug\Lab4b2.exe

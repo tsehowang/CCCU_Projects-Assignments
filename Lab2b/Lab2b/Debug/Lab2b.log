@@ -1,0 +1,3 @@
+﻿  RemainderTest.cpp
+c:\users\howan\source\repos\lab2b\lab2b\remaindertest.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab2b.vcxproj -> C:\Users\howan\source\repos\Lab2b\Debug\Lab2b.exe
