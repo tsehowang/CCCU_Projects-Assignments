@@ -9,5 +9,4 @@ void Main(array<String^>^ args) {
 	Application::SetCompatibleTextRenderingDefault(false);
 	grpProjectGUIver::MyForm form;
 	Application::Run(%form);
-
 }
