@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\howan\source\repos\gce21105project\gce21105project\main.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\howan\source\repos\gce21105project\gce21105project\main.cpp(13): warning C4101: 'num': unreferenced local variable
+  gce21105project.vcxproj -> C:\Users\howan\source\repos\gce21105project\Debug\gce21105project.exe

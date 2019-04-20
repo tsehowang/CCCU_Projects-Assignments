@@ -1,0 +1,39 @@
+loan date:2019/04/07|item code:T001|item name:25th Jam Tent|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:L001|item name:Head Gear Lamp|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:T002|item name:25th Jam Tent|borrower:Jacky Cheung|return before:2019/04/21|out
+loan date:2019/04/07|item code:L005|item name:Cardinol Navigator|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:T005|item name:4 Persons Dome|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:S001|item name:Camp Stove|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:T008|item name:Ultralight Pack|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:L006|item name:Tall Beam Lamp|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:T008|item name:Ultralight Pack|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:S003|item name:Camp Stove|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:S002|item name:Camp Stove|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:L006|item name:Tall Beam Lamp|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:T008|item name:Ultralight Pack|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:T009|item name:Ultralight Pack|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:T005|item name:4 Persons Dome|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:S004|item name:Camp Stove|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:L006|item name:Tall Beam Lamp|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/07|item code:S006|item name:Handy Stove|borrower:CHAN Yik Ming|return before:2019/04/21|out
+loan date:2019/04/08|item code:L004|item name:Moji Lantern|borrower:Jacky Cheung|return before:2019/04/22|out
+return date:2019/04/08|item code:S006|item name:Handy Stove|borrower:CHAN Yik Ming|return before:2019/04/21|in
+loan date:2019/04/08|item code:T009|item name:Ultralight Pack|borrower:CHAN Yik Ming|return before:2019/04/22|out
+return date:2019/04/08|item code:T009|item name:Ultralight Pack|borrower:CHAN Yik Ming|return before:2019/04/22|in
+loan date:2019/04/08|item code:S003|item name:Camp Stove|borrower:CHAN Yik Ming|return before:2019/04/22|out
+loan date:2019/04/09|item code:T009|item name:Ultralight Pack|borrower:CHAN Yik Ming|return before:2019/04/23|out
+return date:2019/04/09|item code:S003|item name:Camp Stove|borrower:CHAN Yik Ming|return before:2019/04/22|in
+loan date:2019/04/09|item code:L006|item name:Tall Beam Lamp|borrower:CHAN Yik Ming|return before:2019/04/23|out
+loan date:2019/04/09|item code:S003|item name:Camp Stove|borrower:CHAN Yik Ming|return before:2019/04/23|out
+loan date:2019/04/09|item code:T001|item name:25th Jam Tent|borrower:CHAN Yik Ming|return before:2019/04/23|out
+return date:2019/04/09|item code:T001|item name:25th Jam Tent|borrower:CHAN Yik Ming|return before:2019/04/23|in
+loan date:2019/04/09|item code:T001|item name:25th Jam Tent|borrower:CHAN Yik Ming|return before:2019/04/23|out
+return date:2019/04/09|item code:T001|item name:25th Jam Tent|borrower:CHAN Yik Ming|return before:2019/04/23|in
+loan date:2019/04/09|item code:T001|item name:25th Jam Tent|borrower:CHAN Yik Ming|return before:2019/04/23|out
+return date:2019/04/09|item code:T001|item name:25th Jam Tent|borrower:CHAN Yik Ming|return before:2019/04/23|in
+loan date:2019/04/09|item code:T001|item name:25th Jam Tent|borrower:CHAN Yik Ming|return before:2019/04/23|out
+return date:2019/04/09|item code:T001|item name:25th Jam Tent|borrower:CHAN Yik Ming|return before:2019/04/23|in
+loan date:2019/04/10|item code:T011|item name:on99|borrower:CHAN Yik Ming|return before:2019/04/24|out
+return date:2019/04/12|item code:T011|item name:on99|borrower:CHAN Yik Ming|return before:2019/04/24|in
+loan date:2019/04/12|item code:S005|item name:Handy Stove|borrower:CHAN Yik Ming|return before:2019/04/26|out
+loan date:2019/04/17|item code:T005|item name:4 Persons Dome|borrower:CHAN Yik Ming|return before:2019/05/01|out

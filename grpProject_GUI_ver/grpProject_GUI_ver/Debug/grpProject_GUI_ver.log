@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\howan\source\repos\grpproject_gui_ver\grpproject_gui_ver\myform.h(161): warning C4018: '<': signed/unsigned mismatch
+  Admin.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  grpProject_GUI_ver.vcxproj -> C:\Users\howan\source\repos\grpProject_GUI_ver\Debug\grpProject_GUI_ver.exe
